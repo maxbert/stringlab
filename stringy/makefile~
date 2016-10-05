@@ -1,0 +1,2 @@
+stringtools:9_28.c
+	gcc 9_28.c
